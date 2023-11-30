@@ -1,8 +1,8 @@
-PWD c:/Kashan/Semester 3/Latex Work
+PWD d:/Uliege/URO/Team project/Report/Latex-Work
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Kashan/Semester 3/Latex Work/main.tex
+INPUT d:/Uliege/URO/Team project/Report/Latex-Work/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2023/texmf-dist/tex/latex/koma-script/scrbook.cls
 INPUT c:/texlive/2023/texmf-dist/tex/latex/koma-script/scrbook.cls
